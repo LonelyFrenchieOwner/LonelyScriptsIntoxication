@@ -30,6 +30,8 @@ Add hilarious or realistic (the choice is yours) chaos to your server with rando
 * `/sober`
 - Immediately revert to normal driving and visuals.
   
+---
+
 ### Installation
 
 1. Download this script and place it in your `resources` folder.
