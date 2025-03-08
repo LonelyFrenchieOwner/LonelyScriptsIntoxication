@@ -29,12 +29,7 @@ Add hilarious or realistic (the choice is yours) chaos to your server with rando
 - Full-on chaos: heavy warping visuals, intense camera shake, wild car control.
 * `/sober`
 - Immediately revert to normal driving and visuals.
-
----
-Direct Download: [LonelyScriptsIntoxication.rar|attachment](upload://4JNXQvjsFfog3J70sD3EKkfzHdJ.rar) (2.3 KB)
-
----
-
+  
 ### Installation
 
 1. Download this script and place it in your `resources` folder.
