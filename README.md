@@ -53,7 +53,3 @@ Open **`config.lua`** to tweak:
 * Strength of visuals (timecycle, shake)
 * Frequency of random swerves or invert steering
 * And more…
-
----
-
-### Disclaimer
